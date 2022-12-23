@@ -1,5 +1,5 @@
 
-## Lets know you?
+## Lets know you!
 
 This application designed with Xcode using Swift Programming language allows the user to introduce themself by providing their fullname, school and the user's year group, their age, and the number of pets they own. The program also asks the user to select whether or not they want more pets. When the is done entering the details, they click a button which gives them an alertbox with a summary of all the details they provided.
 
