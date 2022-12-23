@@ -5,7 +5,7 @@ This application designed with Xcode using Swift Programming language allows the
 
 ## App Walk-though
 
-https://github.com/kuzi-02/CodePath-Prework/blob/edfc93393743728b9a7cbe50d8d89eb813b447fc/CodePath%20Prework.gif
+https://i.imgur.com/XX99A43.gif
 
 ## Required Features
 
