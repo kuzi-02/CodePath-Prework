@@ -1,15 +1,13 @@
 
 ## Lets know you!
 
-This application designed with Xcode using Swift Programming language allows the user to introduce themself by providing their fullname, school and the user's year group, their age, and the number of pets they own. The program also asks the user to select whether or not they want more pets. When the is done entering the details, they click a button which gives them an alertbox with a summary of all the details they provided,
+This application designed with Xcode using Swift Programming language allows the user to introduce themself by providing their fullname, school and the user's year group, their age, and the number of pets they own. The program also asks the user to select whether or not they want more pets. When the is done entering the details, they click a button which gives them an alertbox with a summary of all the details they provided.
 
-`TODO://` Add app description
+## App Walk-though
 
-App Walk-though
+https://i.imgur.com/XX99A43.gif
 
-https://github.com/kuzi-02/CodePath-Prework/blob/edfc93393743728b9a7cbe50d8d89eb813b447fc/CodePath%20Prework.gif
-
-Required Features
+## Required Features
 
 - [x] 1. App displays an image of a school's logo
 - [x] 2. App has three textfields for first, last, and school names
@@ -18,7 +16,7 @@ Required Features
 - [x] 5. Switch makes a statement about wanting more pets or not(true/false) 
 - [x] 6. Introduce yourself button shows alert box with an introduciton and dismiss button
 
-Optional Features
+## Optional Features
 
 - [ ] User can tap a button to change the color of the background view
 - [x] User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
